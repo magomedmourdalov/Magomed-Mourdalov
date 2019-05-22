@@ -16,5 +16,10 @@ namespace Magomed_Mourdalov
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("bericht van wolf");
+        }
     }
 }
