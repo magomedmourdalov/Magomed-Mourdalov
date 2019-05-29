@@ -20,6 +20,7 @@ namespace Magomed_Mourdalov
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("bericht van wolf");
+            MessageBox.Show("Nog een bericht van wolf");
             //voorbeeld wijziging
         }
     }
